@@ -1,0 +1,17 @@
+[
+    {
+        "student": "Jess Chen",
+        "id": 1,
+        "grade": 95
+    },
+    {
+        "student": "Jimmy Fallon",
+        "id": 2,
+        "grade": 88
+    },
+    {
+        "student": "Bob dylan",
+        "id": "3",
+        "grade": 86
+    }
+]
