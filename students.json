@@ -1,17 +1,17 @@
 [
     {
-        "student": "Jess Chen",
+        "name": "Jess Chen",
         "id": 1,
-        "grade": 95
+        "grades": [95, 88, 97]
     },
     {
-        "student": "Jimmy Fallon",
+        "name": "Jimmy Fallon",
         "id": 2,
-        "grade": 88
+        "grades": [88]
     },
     {
-        "student": "Bob dylan",
+        "name": "Bob Dylan",
         "id": "3",
-        "grade": 86
+        "grades": [86, 98, 78]
     }
 ]
