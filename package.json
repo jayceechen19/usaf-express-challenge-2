@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jayceechen19/usaf-express-challenge-2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
